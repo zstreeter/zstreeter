@@ -1,4 +1,4 @@
-### Hey 👋, I'mZachary
+### Hi 👋,I'm Zachary
 
 <a href="https://www.linkedin.com/in/zachary-streeter-44a323102/">
   <img align="left" alt="Zachary's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,11 +12,11 @@
 
 Hi there, I'm **Zachary Streeter**, a PhD candidate in chemical physics at UC Davis. I am part of the Atomic, Molecular, and Optical Physics theory group at Lawrence Berkeley National Lab. We focus on _ab initio_ non-relativistic scattering code development using our in house developed methods, such as a Exterior Complex Scaled -- Finite Element Method with Discrete Variable Representation grid.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
 - 🌱 I’m currently high performance computing and data parallelism in object oriented programming;
 - 🤔 My interests are in quantum computing applications, quantum physics, HPC, finite element methods, applied mathematics etc..;
 - 💼 I’m pursuing a Doctorate's degree in Chemical Physics;
