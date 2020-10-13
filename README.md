@@ -17,7 +17,7 @@ Hi there, I'm **Zachary Streeter**, a PhD candidate in chemical physics at UC Da
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently interested in high performance computing and data parallelism in object oriented design, also real-time physics simulations in VR;
+- 🌱 I’m currently interested in high performance computing and data parallelism in object oriented desig;
 - 🤔 My interests are in quantum computer applications, quantum physics/chemistry, HPC, finite element methods, applied mathematic, VRs etc..;
 - 💼 I’m pursuing a Doctorate's degree in Chemical Physics;
 - 💬I'm an open book so feel free to reach out to me;
@@ -42,5 +42,5 @@ Hi there, I'm **Zachary Streeter**, a PhD candidate in chemical physics at UC Da
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 
 ![Zachary's github stats](https://github-readme-stats.vercel.app/api?username=zstreeter&show_icons=true&theme=radical)
-[![Zachary's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zstreeter)](https://github.com/anuraghazra/github-readme-stats)
+[![Zachary's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zstreeter)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstreeter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
