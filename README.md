@@ -40,6 +40,6 @@ Hi there, I'm **Zachary Streeter**, a PhD candidate in chemical physics at UC Da
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/unreal-engine/unreal-engine.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/ue/ue.png"></code>
 
 ![Zachary's github stats](https://github-readme-stats.vercel.app/api?username=zstreeter&show_icons=true&theme=radical)
