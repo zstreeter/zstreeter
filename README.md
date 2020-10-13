@@ -17,8 +17,8 @@ Hi there, I'm **Zachary Streeter**, a PhD candidate in chemical physics at UC Da
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently high performance computing and data parallelism in object oriented programming;
-- 🤔 My interests are in quantum computing applications, quantum physics, HPC, finite element methods, applied mathematics etc..;
+- 🌱 I’m currently interested in high performance computing and data parallelism in object oriented design;
+- 🤔 My interests are in quantum computer applications, quantum physics/chemistry, HPC, finite element methods, applied mathematic, VRs etc..;
 - 💼 I’m pursuing a Doctorate's degree in Chemical Physics;
 - 💬I'm an open book so feel free to reach out to me;
 - 📫 Please email zacharylouis42@gmail.com to reach me.
@@ -40,5 +40,6 @@ Hi there, I'm **Zachary Streeter**, a PhD candidate in chemical physics at UC Da
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/unrealengine/unrealengine.png"></code>
 
 ![Zachary's github stats](https://github-readme-stats.vercel.app/api?username=zstreeter&show_icons=true&theme=radical)
