@@ -17,8 +17,8 @@ Hi there, I'm **Zachary Streeter**, a PhD candidate in chemical physics at UC Da
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently interested in high performance computing and data parallelism in object oriented desig;
-- 🤔 My interests are in quantum computer applications, quantum physics/chemistry, HPC, finite element methods, applied mathematic, VRs etc..;
+- 🌱 I’m currently interested in high performance computing and data parallelism in object oriented design;
+- 🤔 My broad interests are in quantum computer applications, quantum physics/chemistry, HPC, finite element methods, applied mathematic, VRs etc..;
 - 💼 I’m pursuing a Doctorate's degree in Chemical Physics;
 - 💬I'm an open book so feel free to reach out to me;
 - 📫 Please email zacharylouis42@gmail.com to reach me.
