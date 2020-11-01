@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/zachary-streeter-44a323102/">
   <img align="left" alt="Zachary's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/zstreet42/">
-  <img align="left" alt="Zachary's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <br />
 <br />
