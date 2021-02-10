@@ -22,7 +22,8 @@ Representation grid.
 - 🌱 I’m currently interested in high performance computing and data parallelism
   in object oriented design;
 - 🤔 My broad interests are in quantum computer applications, quantum
-  physics/chemistry, HPC, finite element methods, applied mathematic, VRs etc..;
+  physics/chemistry, HPC, finite element methods, applied mathematics, VRs
+  etc..;
 - 💼 I’m pursuing a Doctorate's degree in Chemical Physics;
 - 💬 I'm an open book so feel free to reach out to me;
 - 📫 Please email zacharylouis42@gmail.com for my CV and more information.
