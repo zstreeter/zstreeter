@@ -19,8 +19,8 @@ Representation grid.
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently interested in high performance computing and data parallelism
-  in object oriented design;
+- 🌱 I’m currently interested in quantum computer's application to quantum
+  chemistry/ physics simulations in the NISQ era;
 - 🤔 My broad interests are in quantum computer applications, quantum
   physics/chemistry, HPC, finite element methods, applied mathematics, VRs
   etc..;
