@@ -11,10 +11,10 @@ Hi there, I'm **Zachary Streeter**, a member of technical staff at AMD
 where I focus on Deep Learning frameworks development. I previously was 
 a part of the Atomic, Molecular, and Optical Physics theory group at 
 Lawrence Berkeley National Lab while I was obtaining my Ph.D. in chemical 
-physics from U.C. Davis. We focus on _ab initio_ non-relativistic scattering 
-code development using our in house developed methods, such as a Exterior 
-Complex Scaled -- Finite Element Method with Discrete Variable Representation 
-grid.
+physics from U.C. Davis. My group there focused on _ab initio_ 
+non-relativistic scattering code development using our in house 
+developed methods, such as a Exterior Complex Scaled -- Finite Element 
+Method with Discrete Variable Representation grid.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" />
 
