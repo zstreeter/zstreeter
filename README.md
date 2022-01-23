@@ -7,24 +7,25 @@
 <br />
 <br />
 
-Hi there, I'm **Zachary Streeter**, a PhD candidate in chemical physics at UC
-Davis. I am part of the Atomic, Molecular, and Optical Physics theory group at
-Lawrence Berkeley National Lab. We focus on _ab initio_ non-relativistic
-scattering code development using our in house developed methods, such as a
-Exterior Complex Scaled -- Finite Element Method with Discrete Variable
-Representation grid.
+Hi there, I'm **Zachary Streeter**, a member of technical staff at AMD
+where I focus on Deep Learning frameworks development. I previously was 
+a part of the Atomic, Molecular, and Optical Physics theory group at 
+Lawrence Berkeley National Lab while I was obtaining my Ph.D. in chemical 
+physics from U.C. Davis. We focus on _ab initio_ non-relativistic scattering 
+code development using our in house developed methods, such as a Exterior 
+Complex Scaled -- Finite Element Method with Discrete Variable Representation 
+grid.
 
-  <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently interested in quantum computer's application to quantum
-  chemistry/ physics simulations in the NISQ era;
+- 🌱 I’m currently interested in deep learning and quantum computer's 
+  application to quantum chemistry/ physics simulations in the NISQ era; 
 - 🤔 My broad interests are in quantum computer applications, quantum
-  physics/chemistry, HPC, finite element methods, applied mathematics, VRs
-  etc..;
-- 💼 I’m pursuing a Doctorate's degree in Chemical Physics;
+  physics/chemistry, HPC, deep learning, finite element methods, 
+  applied mathematics, VRs, etc..;
+- 💼 I have a Doctorate's degree in Chemical Physics;
 - 💬 I'm an open book so feel free to reach out to me;
 - 📫 Please email zacharylouis42@gmail.com for my CV and more information.
 
