@@ -7,9 +7,9 @@
 <br />
 <br />
 
-Hi there, I'm **Zachary Streeter**, a member of technical staff at AMD
-where I focus on Deep Learning frameworks development. I previously was 
-a part of the Atomic, Molecular, and Optical Physics theory group at 
+Hi there, I'm **Zachary Streeter**. I primarily focus on Deep Learning
+and its scientific applications. My training is in computational chemistry/physics 
+and I previously was a part of the Atomic, Molecular, and Optical Physics theory group at 
 Lawrence Berkeley National Lab while I was obtaining my Ph.D. in chemical 
 physics from U.C. Davis. My group there focused on _ab initio_ 
 non-relativistic scattering code development using our in house 
