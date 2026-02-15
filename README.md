@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zachary-streeter-44a323102/">
+  <a href="https://www.linkedin.com/in/zachary-streeter-ph-d-44a323102/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Austin,%20TX-333?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Austin, TX" />
@@ -74,4 +74,4 @@ These days I build and ship deep learning systems, with a soft spot for the plac
 ## Connect
 
 - **Email:** zacharylouis42@gmail.com
-- **LinkedIn:** [Zachary Streeter](https://www.linkedin.com/in/zachary-streeter-44a323102/)
+- **LinkedIn:** [Zachary Streeter](https://www.linkedin.com/in/zachary-streeter-ph-d-44a323102/)
