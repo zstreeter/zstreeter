@@ -1,51 +1,76 @@
-### Hi 👋, I'm Zachary
+<h1 align="center">Zachary Streeter</h1>
+<p align="center">
+  <strong>Computational Physicist · Deep Learning · Quantum Computing</strong>
+</p>
 
-<a href="https://www.linkedin.com/in/zachary-streeter-44a323102/">
-  <img align="left" alt="Zachary's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zachary-streeter-44a323102/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Austin,%20TX-333?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Austin, TX" />
+</p>
 
-<br />
-<br />
+---
 
-Hi there, I'm **Zachary Streeter**. I primarily focus on Deep Learning
-and its scientific applications. My training is in computational chemistry/physics 
-and I previously was a part of the Atomic, Molecular, and Optical Physics theory group at 
-Lawrence Berkeley National Lab while I was obtaining my Ph.D. in chemical 
-physics from U.C. Davis. My group there focused on _ab initio_ 
-non-relativistic scattering code development using our in house 
-developed methods, such as a Exterior Complex Scaled -- Finite Element 
-Method with Discrete Variable Representation grid.
+## About Me
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="300" />
 
-**Talking about Personal Stuffs:**
+I'm a computational physicist turned deep learning practitioner. I hold a **Ph.D. in Chemical Physics** from U.C. Davis, where I was part of the Atomic, Molecular, and Optical Physics theory group at **Lawrence Berkeley National Lab**. My research there focused on _ab initio_ non-relativistic scattering code development using Exterior Complex Scaling with a Finite Element Method / Discrete Variable Representation grid.
 
-- 🌱 I’m currently interested in deep learning and quantum computer's 
-  application to quantum chemistry/ physics simulations in the NISQ era; 
-- 🤔 My broad interests are in quantum computer applications, quantum
-  physics/chemistry, HPC, deep learning, finite element methods, 
-  applied mathematics, VRs, etc..;
-- 💼 I have a Doctorate's degree in Chemical Physics;
-- 💬 I'm an open book so feel free to reach out to me;
-- 📫 Please email zacharylouis42@gmail.com for my CV and more information.
+These days I build and ship deep learning systems, with a soft spot for the places where physics and ML meet. I'm always tinkering — whether it's pruning neural nets, hacking on Neovim configs, or reading papers on quantum algorithms.
 
-**Languages and Tools:**
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/fortran/fortran.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
+## Tech Stack
 
-![Zachary's github stats](https://github-readme-stats.vercel.app/api?username=zstreeter&show_icons=true&theme=radical)
-[![Zachary's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zstreeter)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstreeter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+![Shell](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**RTMPose-NCNN**](https://github.com/zstreeter/RTMPose-NCNN) | Real-time pose estimation in C++ using the NCNN inference framework |
+| [**fastfeedforward**](https://github.com/zstreeter/fastfeedforward) | Log-time feedforward networks — a novel efficient architecture |
+| [**Prune-And-Train**](https://github.com/zstreeter/Prune-And-Train) | Neural network pruning research for efficient model training |
+| [**nvim**](https://github.com/zstreeter/nvim) | My personal Neovim configuration in Lua |
+
+---
+
+## Current Interests
+
+- Deep learning for scientific computing and physics simulations
+- Quantum computing applications to quantum chemistry in the NISQ era
+- Efficient neural network architectures and model compression
+- HPC and high-performance numerical methods
+
+---
+
+## Connect
+
+- **Email:** zacharylouis42@gmail.com
+- **LinkedIn:** [Zachary Streeter](https://www.linkedin.com/in/zachary-streeter-44a323102/)
