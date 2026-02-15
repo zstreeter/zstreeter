@@ -1,4 +1,4 @@
-<h1 align="center">Zachary Streeter</h1>
+<h1 align="center">Dr. Zachary Streeter</h1>
 <p align="center">
   <strong>Computational Physicist · Deep Learning · Quantum Computing</strong>
 </p>
@@ -18,7 +18,7 @@
 
 I'm a computational physicist turned deep learning practitioner. I hold a **Ph.D. in Chemical Physics** from U.C. Davis, where I was part of the Atomic, Molecular, and Optical Physics theory group at **Lawrence Berkeley National Lab**. My research there focused on _ab initio_ non-relativistic scattering code development using Exterior Complex Scaling with a Finite Element Method / Discrete Variable Representation grid.
 
-These days I build and ship deep learning systems, with a soft spot for the places where physics and ML meet. I'm always tinkering — whether it's pruning neural nets, hacking on Neovim configs, or reading papers on quantum algorithms.
+These days I build and ship deep learning systems, with a soft spot for the places where physics and ML meet. I'm always tinkering — whether it's pruning neural nets, hacking on Neovim configs, or reading papers on quantum algorithms. I've also recently discovered declaritive programming, specifically Answer Set Programming (ASP) and it's applications to the A.I. field.
 
 ---
 
@@ -33,6 +33,7 @@ These days I build and ship deep learning systems, with a soft spot for the plac
 ![Shell](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![ASP](https://img.shields.io/badge/ASP-E34F26?style=for-the-badge&logoColor=white)
 
 **ML / AI**
 
